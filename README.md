@@ -132,18 +132,6 @@ flutter run
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 👨‍💻 Developer
